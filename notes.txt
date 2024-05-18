@@ -1,0 +1,17 @@
+File Processors 
+
+URL= Uniform Resource Locator == 
+
+tuples are inmutable == helps secure data == not compatable with JSON unless convertered
+tuples us commas (ex: (1, ))
+
+python REPL == read evaluate print loop
+
+""" == means multiple line strings in python
+
+` == backtick == introduces new statement in server == aka sql injection == none sanitized data 
+
+https://swagger.io/tools/swagger-editor/
+
+
+https://jinja.palletsprojects.com/en/3.1.x/
